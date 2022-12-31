@@ -1,0 +1,43 @@
+1672214785019	geckodriver	INFO	Listening on 127.0.0.1:62953
+1672214787982	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileINDpME"
+1672214789192	Marionette	INFO	Marionette enabled
+1672214789204	Marionette	INFO	Listening on port 62966
+Read port: 62966
+WebDriver BiDi listening on ws://127.0.0.1:62954
+1672214789413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileINDpME\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62954/devtools/browser/d5f42e4e-d50a-4fb4-9f30-7c1f22c96e71
+1672214988957	Marionette	INFO	Stopped listening on port 62966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672214997932	geckodriver	INFO	Listening on 127.0.0.1:51330
+1672215000875	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileZEA5nr"
+1672215002105	Marionette	INFO	Marionette enabled
+1672215002113	Marionette	INFO	Listening on port 51344
+Read port: 51344
+WebDriver BiDi listening on ws://127.0.0.1:51331
+1672215002299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileZEA5nr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51331/devtools/browser/77790ce4-e696-4833-b219-772b7053f113
+1672215310524	Marionette	INFO	Stopped listening on port 51344
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "57215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofilej9Pppa"
+1672215167974	Marionette	INFO	Marionette enabled
+1672215167986	Marionette	INFO	Listening on port 57226
+Read port: 57226
+WebDriver BiDi listening on ws://127.0.0.1:57215
+1672215168181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofilej9Pppa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57215/devtools/browser/9fddf826-df3d-42b5-9253-1e67b4c835a3
+1672215320743	Marionette	INFO	Stopped listening on port 57226
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672215332659	geckodriver	INFO	Listening on 127.0.0.1:53223
+1672215335627	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileNUHbgt"
+1672215336832	Marionette	INFO	Marionette enabled
+1672215336844	Marionette	INFO	Listening on port 53237
+Read port: 53237
+WebDriver BiDi listening on ws://127.0.0.1:53224
+1672215337051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HUAWEI\\AppData\\Local\\Temp\\rust_mozprofileNUHbgt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53224/devtools/browser/03f97bbb-2dea-4c68-a5d9-cc095ed01750
+1672216343880	Marionette	INFO	Stopped listening on port 53237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
